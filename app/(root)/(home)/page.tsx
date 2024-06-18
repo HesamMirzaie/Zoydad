@@ -21,7 +21,7 @@ const Home = () => {
             <p className="text-lg font-medium  lg:text-2xl">{date}</p>
           </div>
         </div>
-        <div className=" px-4 pt-8 flex flex-col items-center text-center h-[400px] text-white ">
+        <div className=" px-4 pt-12 flex flex-col items-center text-center  text-white ">
           <h1 className=" text-4xl  ">سلام به همگی</h1>
           <p className=" text-3xl mt-5">
             زویداد یک اپ ویدیو کال و تماس تصویری است که با ان میتوانید با
